@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, This is Moazzem Hossain</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Hi%20This is%20Moazzem%20Hossain&fontSize=70&animation=fadeIn&fontColor=ffffff" />
+  
+  <h3>🚀 Passionate Frontend Developer from Bangladesh</h3>
+
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Moazzem-Rafi&label=Profile%20views&color=0e75b6&style=flat-square" alt="Moazzem-Rafi" />
+  </p>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moazzem-rafi&label=Profile%20views&color=0e75b6&style=flat" alt="moazzem-rafi" /> </p>
 
